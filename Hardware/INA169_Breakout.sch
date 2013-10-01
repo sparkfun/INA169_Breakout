@@ -6415,7 +6415,7 @@ Basic schematic elements and footprints for 0603, 1206, and PTH resistors.</desc
 <sheet>
 <plain>
 <text x="172.212" y="7.62" size="5.08" layer="94">Shawn Hymel</text>
-<text x="239.014" y="6.604" size="3.81" layer="94">01</text>
+<text x="239.014" y="6.604" size="3.81" layer="94">02</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
@@ -6447,11 +6447,11 @@ Basic schematic elements and footprints for 0603, 1206, and PTH resistors.</desc
 <attribute name="PLACE" x="154.94" y="63.5" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="R2" gate="G$1" x="147.32" y="60.96" rot="R90">
-<attribute name="TOL" x="149.86" y="63.5" size="1.778" layer="96" rot="R90" align="center-left"/>
+<attribute name="TOL" x="149.86" y="63.5" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="R1" gate="G$1" x="121.92" y="121.92">
-<attribute name="SIZE" x="124.46" y="124.46" size="1.778" layer="96" align="center-left"/>
-<attribute name="TOL" x="124.46" y="119.38" size="1.778" layer="96" align="center-left"/>
+<attribute name="SIZE" x="124.46" y="124.46" size="1.778" layer="96"/>
+<attribute name="TOL" x="124.46" y="119.38" size="1.778" layer="96"/>
 </instance>
 </instances>
 <busses>
