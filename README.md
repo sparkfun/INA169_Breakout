@@ -11,7 +11,7 @@ This part was created in Eagle v6.0.0. Example sketches were created in Arduino 
 Repository Contents
 -------------------
 
-* **/Firmware** - Any firmware that the part ships with, 
+* **/Firmware** - Example Arduino sketches
 * **/Hardware** - All Eagle design files (.brd, .sch, .STL)
 
 Version History
