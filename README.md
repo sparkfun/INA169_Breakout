@@ -13,6 +13,7 @@ Repository Contents
 
 * **/Firmware** - Example Arduino sketches
 * **/Hardware** - All Eagle design files (.brd, .sch, .STL)
+* **/Production Files** - Eagle files for panelized PCB
 
 Version History
 ---------------
