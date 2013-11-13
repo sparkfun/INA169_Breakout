@@ -10,7 +10,8 @@
  This sketch shows how to use the SparkFun INA169 Breakout
  Board. As current passes through the shunt resistor (Rs), a
  voltage is generated at the Vout pin. Use an analog read and
- some math to determine the current.
+ some math to determine the current. The current value is
+ displayed through the Serial Monitor.
 
  Hardware connections:
  
@@ -61,7 +62,7 @@ void loop() {
   // Is = (Vout x 1k) / (RS x RL)
   current = sensorValue / (10 * rs);
   
-  // Output value (in Amps) to the serial monitor to 4 decimal
+  // Output value (in Amps) to the serial monitor to 3 decimal
   // places
   Serial.print(current, 3);
   Serial.println(" A");
