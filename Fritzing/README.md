@@ -1,0 +1,2 @@
+* Fritzing diagram showing the INA169 Breakout Board connected to an [Arduino Uno](https://www.sparkfun.com/products/11021)
+* The subfolder contains the source files for Fritzing diagrams for the INA169 Breakout Board.
