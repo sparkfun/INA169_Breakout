@@ -1,4 +1,4 @@
-INA169_Breakout
+SparkFun INA169 Current Sensing Breakout
 ===============
 
 [![INA169 Current Sense Breakout Board](https://dlnmh9ip6v2uc.cloudfront.net/assets/5/0/a/4/2/528502c5757b7f5c468b456a.jpg)  
@@ -14,6 +14,10 @@ Repository Contents
 * **/Firmware** - Example Arduino sketches
 * **/Hardware** - All Eagle design files (.brd, .sch, .STL)
 * **/Production** - Test bed files and production panel files
+
+Documentation
+-------------------
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/ina169-breakout-board-hookup-guide)**
 
 Version History
 ---------------
